@@ -1,4 +1,4 @@
-# NSX-T Multisite Exmaple Scripts
+# NSX-T Multisite Example Scripts
 
 This repository contains some example scripts designed to be leveraged for a NSX-T Multisite deployment.
 
